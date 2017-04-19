@@ -1,0 +1,19 @@
+
+
+#Header {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+    float: left;
+}
+
+#LeftNav {
+	border: solid 8px black;
+	width 400px;
+	float: left;
+	text-align: center;
+	padding-bottom: 8px;
+	background-color: #8E41D5;
+}
